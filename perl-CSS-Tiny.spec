@@ -8,13 +8,13 @@
 Summary:	CSS::Tiny - Read/Write .css files with as little code as possible
 Summary(pl.UTF-8):	CSS::Tiny - odczyt/zapis plików .css przy użyciu jak najmniejszego kodu
 Name:		perl-CSS-Tiny
-Version:	1.19
+Version:	1.20
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/CSS/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	f3f2f3d67d35d0e2b4c3b53c8b3f9483
+# Source0-md5:	044e777384d22941bc6c104dcfa18035
 URL:		http://search.cpan.org/dist/CSS-Tiny/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
