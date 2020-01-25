@@ -4,7 +4,6 @@
 #
 %define		pdir	CSS
 %define		pnam	Tiny
-%include	/usr/lib/rpm/macros.perl
 Summary:	CSS::Tiny - Read/Write .css files with as little code as possible
 Summary(pl.UTF-8):	CSS::Tiny - odczyt/zapis plików .css przy użyciu jak najmniejszego kodu
 Name:		perl-CSS-Tiny
